@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>aspnet-BlazorApp1-76A72EC5-8A41-414A-A07C-172DCA1D6498</UserSecretsId>
-    <WebProject_DirectoryAccessLevelKey>0</WebProject_DirectoryAccessLevelKey>
+    <UserSecretsId>aspnet-BlazorApp1-DE31C16C-65F8-4D90-913A-DE519C4F3652</UserSecretsId>
+    <WebProject_DirectoryAccessLevelKey>1</WebProject_DirectoryAccessLevelKey>
   </PropertyGroup>
 
   <ItemGroup>
