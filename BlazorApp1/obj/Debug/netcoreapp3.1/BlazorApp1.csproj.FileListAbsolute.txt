@@ -9,9 +9,21 @@ C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.dll
 C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.pdb
 C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.Views.dll
 C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.Views.pdb
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dev\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.csprojAssemblyReference.cache
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\staticwebassets\BlazorApp1.StaticWebAssets.Manifest.cache
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\staticwebassets\BlazorApp1.StaticWebAssets.xml
+C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.MvcApplicationPartsAssemblyInfo.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorComponent.input.cache
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
@@ -19,6 +31,7 @@ C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Coun
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
@@ -31,6 +44,7 @@ C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
@@ -42,6 +56,6 @@ C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.AssemblyInfo.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorTargetAssemblyInfo.cache
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorTargetAssemblyInfo.cs
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.Views.pdb
+C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.csproj.CopyComplete
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.dll
 C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.pdb
-C:\dev\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.csproj.CopyComplete
