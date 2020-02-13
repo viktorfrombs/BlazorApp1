@@ -46,6 +46,14 @@
             "Microsoft.AspNetCore.Authentication.AzureAD.UI": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Microsoft.Graph.Auth": {
+              "target": "Package",
+              "version": "[1.0.0-preview.3, )"
             }
           },
           "imports": [
